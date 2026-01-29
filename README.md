@@ -9,6 +9,7 @@ I'm documenting my journey learning React by building various projects, from sim
 ## Projects
 
 - **basic-counter** - A basic counter application to learn state management and event handling
+- **background-changer** - A background color changer to practice state and dynamic styling
 
 ## Getting Started
 
