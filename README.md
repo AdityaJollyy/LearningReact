@@ -19,8 +19,10 @@ I'm documenting my journey learning React by building various projects, from sim
 - **react-router-project** - A multi-page application using React Router for navigation and routing
 
 - **minicontext** - A minimal Context API demo showing how to share state with `UserContext` and a provider/consumer pattern
- 
+
 - **theme-switcher** - A small theme toggle demo using Context API and Tailwind's dark-mode variants
+
+- **todo-app-contextApi-localStorage** - A Todo app demonstrating Context API for state and `localStorage` persistence
 
 ## Getting Started
 
